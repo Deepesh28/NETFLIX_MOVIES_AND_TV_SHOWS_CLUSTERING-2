@@ -1,7 +1,7 @@
 # NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING-
 
 NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
-image
+
 
 Netflix is a groundbreaking American subscription video on-demand streaming service, offering an extensive array of films and TV series produced by its own media company. It has a global presence, reaching audiences in multiple languages, redefining entertainment consumption and becoming an integral part of modern culture.
 
@@ -41,7 +41,7 @@ description: Brief description of the show/movie.
 
 The dataset has a mixture of data types - one integer column (release_year) and eleven object columns (strings). Some columns have missing values, such as director, cast, country, date_added, and rating. The memory usage for this dataset is approximately 730.2 KB.
 
-Screenshot (98)
+
 
 #Project Summary -
 This project analyzed Netflix's content dataset of TV shows and movies from 2019. It revealed a diverse content range, with more movies than TV shows. TV-MA was the preferred TV show rating, and content additions peaked from October to January. Documentaries, Standup Comedy, and Drama were prominent genres, and Kids TV stood out for TV shows. The K Means algorithm identified 29 optimal content clusters. The United States had the most content, and India emerged as a significant source. Approximately 30% of movies were Netflix originals. These insights can guide content curation and enhance understanding of audience preferences, enabling Netflix to provide a diverse and engaging viewing experience for its global users.
